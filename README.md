@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://kinfris.github.io/rsschool-cv/cv
